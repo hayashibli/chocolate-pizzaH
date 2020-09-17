@@ -66,3 +66,34 @@ header #second-div{
 #form2{
 margin-left: 500px;
 }
+#vanImg{
+    padding-top: 20px;
+}
+#div-last{
+    float: right;
+    margin-right: 23%;
+}
+button{
+    margin-left: 90%;
+    background-color: brown;
+    color: white;
+    padding: 5px 10px; 
+}
+#hr1{
+    width: 47%;
+    float: left;
+}
+#hr2{
+    width: 48%;
+    float: right;
+}
+#last-img{
+    position: relative;
+    left:1.2%;
+    top: -4px;
+}
+footer{
+    text-align: center;
+}
+
+/* tamara's changes */
